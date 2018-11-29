@@ -1,0 +1,24 @@
+Soal
+Hery akan membeli bola basket dengan harga Rp.180.000. 
+Ibu memberi uang Rian Rp.85.000 jika 5 orang teman club basketnya menyumbang masing-masing Rp.15.000.
+Berapa kekurangannya uang yang dibutuhkan untuk membeli bola basket tersebut?
+
+Jawaban:
+Harga bola basket=Rp.180.000
+Jumlah uang Hery=Rp.85.000 + (5 X Rp.15.000)
+
+=Rp.85.000 + Rp.75.000
+=Rp.160.000
+
+Jadi uang Hery untuk membeli bola basket kurang Rp.20.000 (karena Rp.180.000-Rp160.000=Rp.20.000)
+
+Penyelesaian
+
+>>> Harga_bola_basket = 180000
+>>> jumlah_uang_hery=5 * 15000 + 85000
+>>> print(jumlah_uang_hery)
+160000
+>>> total=180000-160000
+>>> print(total)
+20000
+>>> 
